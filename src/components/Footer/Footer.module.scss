@@ -1,0 +1,14 @@
+.footer {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  padding-bottom: 40px;
+  box-shadow: 0px -2px 10px 1px rgba(0, 0, 0, 0.2);
+  background-color: rgba(49, 49, 49, 0.8);
+
+  &__menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+}
